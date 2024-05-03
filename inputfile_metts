@@ -1,0 +1,17 @@
+input
+{
+
+N = 8
+
+t= 1.0
+U = 0.0
+beta = 3.0
+tau = 0.001
+
+cutoff = 1E-8
+maxdim = 100
+
+nwarm = 20
+nmetts = 200
+
+}
