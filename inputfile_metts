@@ -1,0 +1,19 @@
+input
+{
+
+N = 80
+
+t= 1.0
+U = 8.0
+V = -1.0
+beta = 29.6;
+tau_tebd = 0.002
+tau_tdvp = 0.2
+
+cutoff = 1E-8
+maxdim = 200
+
+nwarm = 10
+nmetts = 500
+
+}
